@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Diego Antonio",
+      "lastName": "Lazarte Peláez",
+      "email": "dieglp.1992@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 90720211951
+    },
+    {
+      "firstName": "Toffee",
+      "lastName": "Alvarez",
+      "email": "talvarez@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 90720211952
+    },
+    {
+      "firstName": "Franco",
+      "lastName": "Zamora Lazarte",
+      "email": "fzamoral@gmail.com",
+      "password": "MTIzNDU2",
+      "id": 90720211953
+    },
+    {
+      "firstName": "aasdadas",
+      "lastName": "asdasdasd",
+      "email": "asdasd@gmail.com",
+      "password": "ZHNmZ3NkZmdzZA==",
+      "id": 90720211954
+    }
+  ]
+}
